@@ -88,6 +88,7 @@ color: var(--color-green);
     .card{
     background-color:var(--color-rocket) ;
     display: grid;
+    cursor: pointer;
     
     }
     .card__image-container img {
@@ -149,4 +150,19 @@ color: var(--color-green);
          height: 90%;
          position: absolute;
          top: 5%;
+     }
+     /*===  FEATURED    ===*/
+     .featured-wrapper.card__image-container{
+         position: relative;
+     }
+     .featured{
+         background:rgb(197, 228, 20);
+         color:#111;
+         padding: 2px 8px;
+         right:5px ;
+         position: absolute;
+         border-radius: 16px;
+         top: -10px;
+         font-family: Arial, Helvetica, sans-serif ;
+
      }

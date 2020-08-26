@@ -4,6 +4,7 @@ module.exports = [
         title: "Autenticação no Adonis com TDD",
         duration: "01:06 min",
         price: "Free",
+        featured: true,
     },
     {
         id:"DDm0M_rZLJo",
@@ -16,6 +17,7 @@ module.exports = [
         title: "Como usar Git e Github na prática: Guia para iniciantes",
         duration: "33 min",
         price: "Free",
+        featured: true,
     },
     {
         id:"ghTrp1x_1As",
@@ -28,6 +30,7 @@ module.exports = [
         title: "Desvendando o CSS Grid na prática",
         duration: "36 min",
         price: "Free",
+        featured: true,
     },
     {
         id:"jiP45rEOEbA",
